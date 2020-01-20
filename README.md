@@ -60,6 +60,7 @@ At the end of this section, we just understand in our case the best way is using
 
 ## Authors
 
+* Mohammad Tohidivahdat     mohammad.vahdat@epfl.ch
 * Ehsan Mohammadpour        ehsan.mohammadpour@epfl.ch
 * Fereshte Mozafari         fereshte.mozafari@epfl.ch
-* Mohammad Tohidivahdat     mohammad.vahdat@epfl.ch
+
