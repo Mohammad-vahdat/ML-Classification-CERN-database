@@ -58,9 +58,7 @@ python run_test.py
 
 At the end of this section, we just understand in our case the best way is using the regularized logestic regression method.
 
-## Authors
+## Author
 
 * Mohammad Tohidivahdat     mohammad.vahdat@epfl.ch
-* Ehsan Mohammadpour        ehsan.mohammadpour@epfl.ch
-* Fereshte Mozafari         fereshte.mozafari@epfl.ch
 
