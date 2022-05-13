@@ -1,4 +1,6 @@
-# Project 1 : Detecting Higgs Boson
+# Project : Detecting Higgs Boson
+
+The Higgs Boson is an elementary particle in the standard model of physics, which is proposed to explain why particles have mass. The boson's existence was confirmed in 2012 based on collisions in the Large Hadron Collider (LHC) at CERN. We got some data from the Large Hadron Collider at CERN. The deterministic analysis of data is intensely hard because of the huge volume of the data and the complexity of the physical processes. We want to estimate the likelihood that the signature of a given event is the result of a Higgs Boson, namely signal, or some other process/particle, namely background noise. The goal is to predict whether this event is a signal or a background. Hence, we propose a Machine Learning approach for binary classification. 
 
 ![image](https://user-images.githubusercontent.com/57172944/168263128-7e11d8e2-2118-4ed5-bbd3-2fc93dee0dd7.png)
 
