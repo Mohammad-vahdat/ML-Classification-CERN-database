@@ -1,6 +1,7 @@
 # Project 1 : Detecting Higgs Boson
 
-This project was created as the first project of Machine Learning course [ **CS-433** ] at EPFL.
+![image](https://user-images.githubusercontent.com/57172944/168263128-7e11d8e2-2118-4ed5-bbd3-2fc93dee0dd7.png)
+
 
 ## Project Structure
 
